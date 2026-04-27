@@ -1,36 +1,46 @@
-# Hangman Game 🎮 – React + TypeScript 
+# 🎮 Hangman Game — React + TypeScript
 
-This project is a classic **Hangman game** built with **React and TypeScript**.  
-It was developed as the **final project of a Programming Fundamentals course on Udemy**.
+Implementación del clásico juego del **Ahorcado** construida con **React y TypeScript**.  
+Desarrollado como **proyecto final de un curso de Fundamentos de Programación en Udemy**.
 
-## Demo
+## 🚀 Demo
 
-Play the game here:  
-https://hangman-game-am.netlify.app/
+👉 [Jugar ahora](https://hangman-game-am.netlify.app/)
 
-## Technologies
+## 🛠️ Tecnologías
 
-- React
-- TypeScript
-- HTML
-- CSS
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-## Features
+## ✨ Características
 
-- Random word generation
-- Used letters tracking
-- Win or lose detection
+- Generación aleatoria de palabras
+- Seguimiento de letras ya utilizadas
+- Detección de victoria y derrota
 
-## Installation
+## ⚙️ Cómo ejecutar el proyecto
 
-1.Clone the repository:
+### 1. Clonar el repositorio
+
+```bash
 git clone https://github.com/andresmdevco/react-hangman-game.git
+cd react-hangman-game
+```
 
-2.Install dependencies
-```npm install```
+### 2. Instalar dependencias
 
-3.Run the development server
-```npm run dev```
+```bash
+npm install
+```
 
-4.Open the application
-Open the **localhost URL** shown in the terminal.
+### 3. Iniciar el servidor de desarrollo
+
+```bash
+npm run dev
+```
+
+### 4. Abrir la aplicación
+
+Abre la URL de **localhost** que aparece en la terminal.
