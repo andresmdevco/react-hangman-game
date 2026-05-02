@@ -7,6 +7,13 @@ Desarrollado como **proyecto final de un curso de Fundamentos de Programación e
 
 👉 [Jugar ahora](https://hangman-game-am.netlify.app/)
 
+### 📸 Capturas del juego
+
+<p align="center">
+  <img src="screenshots/win.png" width="300"/>
+  <img src="screenshots/lose.png" width="300"/>
+</p>
+
 ## 🛠️ Tecnologías
 
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
